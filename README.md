@@ -1,0 +1,1 @@
+# Poc of micro front-end
